@@ -5,3 +5,7 @@ Through the use of a Haar Cascade classifier on greyscale images, the extraction
 ![alt text](https://github.com/Sher110106/distance_classification/blob/main/Dr_Shashi_Tharoor.jpg?raw=true)
 ![alt text](https://github.com/Sher110106/distance_classification/blob/main/Plaksha_Faculty.jpg?raw=true)
 
+### OUTPUT
+![alt text](https://github.com/MannanGupta05/distance_classification/blob/master/OUTPUT'/mlpr_lab.jpg)
+![alt text](https://github.com/MannanGupta05/distance_classification/blob/master/OUTPUT'/mlpr_lab_1.jpg)
+![alt text](https://github.com/MannanGupta05/distance_classification/blob/master/OUTPUT'/mlpr_lab_2.jpg)
